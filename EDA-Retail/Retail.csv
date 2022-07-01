@@ -1,0 +1,51 @@
+Ship Mode,Segment,Country,City,State,Postal Code,Region,Category,Sales,Quantity ,Discount ,Profit
+Second Class,Consumer,United States,Henderson,Kentucky,42420,South,Furniture,276.96,3,0,42.9346
+Second Class,Consumer,United States,Los Angeles,California,90036,West,Furniture,731.98,5,0.45,216.456
+Second Class,Consumer,United States,Los Angeles,California,90036,West,Office Supplies,17.64,6,0,6.871
+Second Class,Consumer,United States,Los Angeles,California,90036,West,Technology,524.95,4,0,8.4522
+Standard Class,Consumer,United States,Henderson,Kentucky,42420,South,Furniture,844.66,2,0.45,255.98
+Standard Class,Consumer,United States,Henderson,Kentucky,42420,South,Technology,941.61,7,0.45,42.555
+Second Class,Consumer,United States,Miami,Florida,33180,South,Office Supplies,10.42,2,0,3.456
+Second Class,Consumer,United States,Miami,Florida,33180,South,Office Supplies,22.54,4,0,12.456
+Second Class,Consumer,United States,Costa Mesa,California,92627,West,Office Supplies,13.54,3,0,4.5676
+Standard Class,Consumer,United States,Costa Mesa,California,92627,West,Office Supplies,13.54,3,0,4.5676
+Standard Class,Consumer,United States,Westminister,California,92683,West,Furniture,432.65,4,0.2,121.94
+Standard Class,Consumer,United States,Henderson,Kentucky,42420,South,Furniture,888.22,7,0.45,220.4561
+Standard Class,Consumer,United States,Miami,Florida,33180,South,Technology,999.45,8,0.3,45.3239
+Standard Class,Consumer,United States,Los Angeles,California,90036,West,Technology,663.22,6,0.2,12.3456
+Standard Class,Consumer,United States,Los Angeles,California,90036,West,Technology,789.23,5,0.2,24.5622
+Second Class,Consumer,United States,Westminister,California,92683,West,Technology,345.44,4,0,10.2345
+Standard Class,Consumer,United States,Westminister,California,92683,West,Technology,345.44,4,0,10.2345
+Second Class,Consumer,United States,Westminister,California,92683,West,Technology,720.12,8,0.2,16.3456
+Standard Class,Consumer,United States,Westminister,California,92683,West,Furniture,200.2,2,0,0
+Second Class,Consumer,United States,Westminister,California,92683,West,Office Supplies ,15.43,3,0,12.9876
+Second Class,Consumer,United States,Miami,Florida,33180,South,Technology,720.12,5,0.2,21.3456
+Standard Class,Consumer,United States,Costa Mesa,California,92627,West,Technology,345.66,3,0,19.3932
+Standard Class,Consumer,United States,Costa Mesa,California,92627,West,Office Supplies,25.34,6,0.1,16.6527
+Standard Class,Consumer,United States,Costa Mesa,California,92627,West,Furniture,834.22,6,0.45,222.45
+Standard Class,Consumer,United States,Costa Mesa,California,92627,West,Office Supplies,12.44,3,0,4.5678
+Standard Class,Consumer,United States,Henderson,Kentucky,42420,South,Office Supplies,23.56,5,0.1,11.3451
+Second Class,Consumer,United States,Costa Mesa,California,92627,West,Office Supplies,13.456,2,0,4.221
+Second Class,Consumer,United States,Miami,Florida,33180,South,Office Supplies,22.45,6,0.1,10.3456
+Second Class,Consumer,United States,Westminister,California,92683,West,Furniture,563.22,5,0,256.432
+Second Class,Consumer,United States,Los Angeles,California,90036,West,Furniture,451.33,4,0,124.678
+Second Class,Consumer,United States,Los Angeles,California,90036,West,Furniture,678.98,6,0.45,210.4576
+Second Class,Consumer,United States,Los Angeles,California,90036,West,Furniture,888.55,8,0.45,312.9823
+Second Class,Consumer,United States,Los Angeles,California,90036,West,Furniture,489.99,5,0,120.453
+Second Class,Consumer,United States,Henderson,Kentucky,42420,South,Office Supplies,27.56,4,0.1,14.2398
+Second Class,Consumer,United States,Henderson,Kentucky,42420,South,Technology,222.22,4,0,3.569
+Standard Class,Consumer,United States,Miami,Florida,33180,South,Technology,342.45,3,0,2.4532
+Standard Class,Consumer,United States,Westminister,California,92683,West,Technology,123.45,3,0,0.4569
+Standard Class,Consumer,United States,Westminister,California,92683,West,Technology,543.55,5,0.2,30.4321
+Standard Class,Consumer,United States,Westminister,California,92683,West,Technology,666.22,6,0.2,20.8652
+Standard Class,Consumer,United States,Los Angeles,California,90036,West,Office Supplies,8.45,2,0,0
+Standard Class,Consumer,United States,Los Angeles,California,90036,West,Office Supplies,10.47,4,0,1.234
+Standard Class,Consumer,United States,Costa Mesa,California,92627,West,Technology,123.98,1,0,10.4532
+Standard Class,Consumer,United States,Costa Mesa,California,92627,West,Technology,445.75,3,0,22.4563
+Second Class,Consumer,United States,Henderson,Kentucky,42420,South,Furniture,789.45,6,0.45,123.4678
+Second Class,Consumer,United States,Miami,Florida,33180,South,Technology,234.12,6,0,19.3562
+Second Class,Consumer,United States,Miami,Florida,33180,South,Furniture,432.11,4,0,110.987
+Second Class,Consumer,United States,Westminister,California,92683,West,Officer Supplies,12.56,3,0.1,3.4563
+Standard Class,Consumer,United States,Henderson,Kentucky,42420,South,Officer Supplies,23.44,5,0.1,11.7292
+Standard Class,Consumer,United States,Los Angeles,California,90036,West,Technology,222.22,4,0,12.982
+Standard Class,Consumer,United States,Costa Mesa,California,92627,West,Technology,450.65,8,0,32.5642
